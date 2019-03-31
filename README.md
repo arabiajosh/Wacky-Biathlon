@@ -40,6 +40,9 @@ The game ends when the designated number of rounds have been completed. Once thi
 ## Credits
 
 Concept:  Joshua Arabia and Seah McHale
+
 Rules:  Joshua Arabia
+
 Artwork:  Eric Anzalone and Sean McHale
+
 Quality Assurance:  Junbo Wang
